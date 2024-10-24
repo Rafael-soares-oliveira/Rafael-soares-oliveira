@@ -48,7 +48,15 @@
   <a href="https://github.com/Rafael-soares-oliveira/business_intelligence_1">Análise visual dos Métodos de Pagamento Brasileiro e do Pix utilizando Tableau.</a>
 </p>
 <p>
-  Projetos realizados em bootcamps da plataforma de ensino DIO.
+  Projetos simples em R:
+</p>
+<ul>
+  <li>
+    <a href="https://github.com/Rafael-soares-oliveira/projetos_r_1">Projeto 1;</a>
+  </li>
+</ul>
+<p>
+  Projetos realizados em bootcamps da plataforma de ensino DIO:
 </p>
 <ul>
   <li>
