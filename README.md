@@ -38,6 +38,27 @@
   <img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel&logoColor=white" alt="Excel"/>
 </p>
 
+<h3 align="left">
+  💻 Projetos
+</h3>
+<p>
+  <a href="https://github.com/Rafael-soares-oliveira/tratamento_grande_volume_dados">Tratamento de grande volume de dados utilizando Pyspark e Tableau Prep Builder.</a>
+</p>
+<p>
+  <a href="https://github.com/Rafael-soares-oliveira/business_intelligence_1">Análise visual dos Métodos de Pagamento Brasileiro e do Pix utilizando Tableau.</a>
+</p>
+<p>
+  Projetos realizados em bootcamps da plataforma de ensino DIO.
+</p>
+<ul>
+  <li>
+    <a href="https://github.com/Rafael-soares-oliveira/lab-natty-or-not">Criação de uma ebook sobre Regressão Linear utilizando apenas o ChatGPT como consulta.</a>
+  </li>
+  <li>
+    <a href="https://github.com/Rafael-soares-oliveira/SQL">Criação de databases utilizando MySQL.</a>
+  </li>
+</ul>
+
 <div>
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=Rafael-soares-oliveira&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 </div>
