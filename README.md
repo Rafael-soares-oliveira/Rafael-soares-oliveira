@@ -44,6 +44,26 @@
   💻 Projetos
 </h3>
 <p>
+  <a href="https://github.com/Rafael-soares-oliveira/cientista_dados">Projetos de Ciência de Dados (Melhorar README).</a>
+</p>
+<ul>
+  <li>
+    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/planejador_rotas">Planejador de Rotas;</a>
+  </li>
+  <li>
+    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/industrial_equipment_monitoring">Modelo de Classificação Binário (Equipamento: Falha ou Não);</a>
+  </li>
+  <li>
+    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/money_bring_happiness">Modelo de regressão (Dinheiro X Felicidade);</a>
+  </li>
+  <li>
+    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/wine_quality">Modelo de classificação Multi-Class (Qualidade do vinho);</a>
+  </li>
+  <li>
+    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/tesla_stock_market">Análise de Mercado (Preço de Ação)</a>
+  </li>
+</ul>
+<p>
   <a href="https://github.com/Rafael-soares-oliveira/tratamento_grande_volume_dados">Tratamento de grande volume de dados utilizando Pyspark e Tableau Prep Builder.</a>
 </p>
 <p>
