@@ -44,9 +44,12 @@
   💻 Projetos
 </h3>
 <p>
-  <a href="https://github.com/Rafael-soares-oliveira/cientista_dados">Projetos de Ciência de Dados (Melhorar README).</a>
+  <a href="https://github.com/Rafael-soares-oliveira/cientista_dados">Projetos de Ciência de Dados.</a>
 </p>
 <ul>
+  <li>
+    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/combustiveis_br_sp">Análise dos Preços dos Combustíveis da Cidade de São Paulo.</a>
+  </li>
   <li>
     <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/planejador_rotas">Planejador de Rotas;</a>
   </li>
