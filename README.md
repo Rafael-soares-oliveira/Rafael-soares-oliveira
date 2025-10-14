@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&color=007ACC" alt="Python"/>
   <img src="https://img.shields.io/badge/R-blue?style=flat&logo=R&logoColor=white&color=007ACC" alt="R"/>
   <img src="https://img.shields.io/badge/SQL-blue?style=flat&logoColor=white&color=007ACC" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/HTML-white?style=flat&logo=HTML5&logoColor=white&color=007ACC" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS-white?style=flat&logo=CSS3&logoColor=white&color=007ACC" alt="CSS"/>
 </p>
 
 <h3 align="left">
