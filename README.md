@@ -4,12 +4,6 @@
   <a href="mailto:rafael.oliveira994@outlook.com?subject=&cc=&bcc=" title="Email">
     <img src="https://img.shields.io/badge/-rafael.oliveira994@outlook.com-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=rafael.oliveira994@outlook.com" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/rafael-soares-de-oliveira-782609316/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-soares-de-oliveira-782609316/" alt="LinkedIn"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/rafael.oliveira5857/vizzes" title="Tableau">
-    <img src="https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau&logoColor=white&color=blue" alt="Tableau"/>
-  </a>
 </p>
 
 <p align="left"> 
