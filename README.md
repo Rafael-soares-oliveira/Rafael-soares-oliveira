@@ -44,20 +44,20 @@
   💻 Projetos
 </h3>
 <p>
+  <a href="https://github.com/Rafael-soares-oliveira/elt_steam_games">ELT (Extract -> Load -> Transform) de um dataset extraído via API. Utilizado PostgreSQL e Docker.</a>
+</p>
+<p>
   <a href="https://github.com/Rafael-soares-oliveira/cientista_dados">Projetos de Ciência de Dados.</a>
 </p>
 <ul>
   <li>
-    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/combustiveis_br_sp">Análise dos Preços dos Combustíveis da Cidade de São Paulo.</a>
+    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/industrial_equipment_monitoring">Modelo de Classificação Binário (Equipamento: Falha ou Não);</a>
   </li>
   <li>
     <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/planejador_rotas">Planejador de Rotas;</a>
   </li>
   <li>
-    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/industrial_equipment_monitoring">Modelo de Classificação Binário (Equipamento: Falha ou Não);</a>
-  </li>
-  <li>
-    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/money_bring_happiness">Modelo de regressão (Dinheiro X Felicidade);</a>
+    <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/combustiveis_br_sp">Análise dos Preços dos Combustíveis da Cidade de São Paulo.</a>
   </li>
   <li>
     <a href="https://github.com/Rafael-soares-oliveira/cientista_dados/tree/main/wine_quality">Modelo de classificação Multi-Class (Qualidade do vinho);</a>
