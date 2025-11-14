@@ -36,6 +36,9 @@
   💻 Projetos
 </h3>
 <p>
+  <a href="https://github.com/Rafael-soares-oliveira/industrial_equipment_monitoring">Criação de pipelines utilizando Kedro para treinar um modelo de classificação binária utilizando XGBooster.Booster e Optuna.</a>
+</p>
+<p>
   <a href="https://github.com/Rafael-soares-oliveira/elt_steam_games">ELT (Extract -> Load -> Transform) de um dataset extraído via API. Utilizado PostgreSQL e Docker.</a>
 </p>
 <p>
