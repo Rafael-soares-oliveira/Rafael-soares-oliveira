@@ -36,7 +36,13 @@
   💻 Projetos
 </h3>
 <p>
+  <a href="https://github.com/Rafael-soares-oliveira/benchmark_pandas_vs_polars">Benchmark entre Pandas e Polars para ambientes locais e processamento de arquivos de tamanho médio.</a>
+</p>
+<p>
   <a href="https://github.com/Rafael-soares-oliveira/industrial_equipment_monitoring">Criação de pipelines utilizando Kedro para treinar um modelo de classificação binária utilizando XGBooster.Booster e Optuna.</a>
+</p>
+<p>
+  <a href="https://github.com/Rafael-soares-oliveira/game_python">Projeto de um Space Shooter utilizando a biblioteca Pygame e paradigma de programação ECS.</a>
 </p>
 <p>
   <a href="https://github.com/Rafael-soares-oliveira/monitoramento_logistico_clima_n8n">Utilização de n8n para monitorar condições climáticas adversas em rotas críticas e notificar a equipe de operações via Telegram para tomada de decisão proativa.</a>
