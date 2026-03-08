@@ -36,6 +36,9 @@
   💻 Projetos
 </h3>
 <p>
+  <a href="https://github.com/Rafael-soares-oliveira/ecommerce_mlops_genai_pipeline">Pipeline completo de Engenharia de Dados e Inteligência Artificial fornecendo uma plataforma analítica end-to-end integrado a um chatbot RAG.</a>
+</p>
+<p>
   <a href="https://github.com/Rafael-soares-oliveira/benchmark_pandas_vs_polars">Benchmark entre Pandas e Polars para ambientes locais e processamento de arquivos de tamanho médio.</a>
 </p>
 <p>
