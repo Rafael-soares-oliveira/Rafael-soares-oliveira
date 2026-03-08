@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
-  Estudante de Ciência de Dados.<br>
+  Cientista de Dados | Analista de Dados | Engenheiro Mecânico | Explorador de novos conhecimentos<br>
 </p>
 
 <h3 align="left">
@@ -23,13 +23,13 @@
   💼 Ferramentas:
 </h3>
 <p>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logoColor=007ACC" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kedro-333333?style=flat&logo=kedro&logoColor=white" alt="Kedro"/>
+  <img src="https://img.shields.io/badge/Streamlit-333333?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Ollama-333333?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/-Tableau-333333?style=flat&logo=salesforce&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/-Power_BI-333333?style=flat&logo=powerbi&logoColor=007ACC" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/mysql-333333?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/postgresql-333333?style=flat&logo=postgresql&logoColor=white" alt="Postgresql"/>
-  <img src="https://img.shields.io/badge/SQL_Server-333333?style=flat&logoColor=white" alt="SQLServer"/>
-  <img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white" alt="Postgresql"/>
 </p>
 
 <h3 align="left">
