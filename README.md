@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
-  Cientista de Dados | Analista de Dados | Engenheiro Mecânico | Explorador de novos conhecimentos<br>
+  Cientista de Dados | Analista de Dados | Analista da Qualidade e Melhoria Contínua | Explorador de novos conhecimentos<br>
 </p>
 
 <h3 align="left">
